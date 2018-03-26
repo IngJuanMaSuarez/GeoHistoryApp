@@ -42,7 +42,7 @@ Documento PDF de [GeoHistoryApp](https://www.academia.edu/36259230/GeoHistoryApp
 
 Presentación Power Point de [GeoHistoryApp](https://www.academia.edu/36259231/GeoHistoryApp_Realidad_Aumentada_Basada_en_Geolocalizaci%C3%B3n_para_Aprender_Historia).
 
-**Trabajo de grado para la Especialización en Sistemas de Información Geográfica**<p>
-**Universidad Distrital Francisco José de Caldas**<p>
-**Bogotá - Colombia**<p>
+**Trabajo de grado para la Especialización en Sistemas de Información Geográfica**
+**Universidad Distrital Francisco José de Caldas**
+**Bogotá - Colombia**
 **Noviembre 2017**
