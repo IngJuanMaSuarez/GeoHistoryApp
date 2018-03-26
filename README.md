@@ -3,6 +3,13 @@ Aplicación Android de realidad aumentada basada en geolocalización para aprend
 
 ![GeoHistoryApp](https://github.com/IngJuanMaSuarez/GeoHistoryApp/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
+## Contenido
+
+- [Introducción](#introducción)
+- [Screenshots](#screenshots)
+- [Más Detalles del Proyecto](#más-detalles-del-proyecto)
+- [Redes Sociales](#redes-sociales)
+
 ## Introducción
 En Colombia existe una gran desinformación y desinterés por la historia, causando un bajo nivel de patriotismo y ausencia de identidad nacional. Adicional a esto, la enseñanza de la historia como cátedra única desapareció del pensum de primaria y bachillerato y se creó la de ciencias sociales, una integración de historia con geografía, constitución política y democracia, cambiando totalmente el enfoque, objetivos y temáticas impartidas en esta asignatura. 
 
