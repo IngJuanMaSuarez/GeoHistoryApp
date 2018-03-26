@@ -25,17 +25,15 @@ Lo anterior se desarrolló siguiendo una metodología incremental que se basa en
     </tr>
     <tr>
         <td>
-            <img alt="Descripción Histórica" src="Images/4.%20Descripcion%20Historica.png">
+            <img alt="Ejemplo Palacio de Justicia" src="Images/4.%20Ejemplo%20Palacio%20de%20Justicia.png">
         </td>
         <td>
             <img alt="Ejemplo Palacio de Justicia" src="Images/5.%20Ejemplo%20Palacio%20de%20Justicia.png">
         </td>
         <td>
-            <img alt="Ejemplo Palacio de Justicia" src="Images/6.%20Ejemplo%20Palacio%20de%20Justicia.png">
+            <img alt="Demostracion Final" src="Images/6.%20Demostracion%20Final.png">
         </td>
 </table>
-
-![GeoHistoryApp](https://github.com/IngJuanMaSuarez/GeoHistoryApp/blob/master/Images/7.%20Demostracion%20Final.png)
 
 ## Más Detalles del Proyecto
 Documento PDF de [GeoHistoryApp](https://www.academia.edu/36259230/GeoHistoryApp_Realidad_Aumentada_Basada_en_Geolocalizaci%C3%B3n_para_Aprender_Historia).
