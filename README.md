@@ -44,8 +44,8 @@ Lo anterior se desarrolló siguiendo una metodología incremental que se basa en
 - **[`Linkedin`](https://linkedin.com/in/IngJuanMaSuarez)**
 - **[`Academia`](https://udistrital.academia.edu/IngJuanMaSuarez)**
 
-<p></p>.
-<p></p>.
+<p></p>
+<p></p>
 
 <p align="center">
     <b>Trabajo de grado para la Especialización en Sistemas de Información Geográfica<br/>
