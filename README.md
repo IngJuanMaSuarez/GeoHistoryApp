@@ -44,7 +44,9 @@ Lo anterior se desarrolló siguiendo una metodología incremental que se basa en
 - **[`Linkedin`](https://linkedin.com/in/IngJuanMaSuarez)**
 - **[`Academia`](https://udistrital.academia.edu/IngJuanMaSuarez)**
 
-**Trabajo de grado para la Especialización en Sistemas de Información Geográfica**<br/>
-**Universidad Distrital Francisco José de Caldas**<br/>
-**Bogotá - Colombia**<br/>
-**Noviembre 2017**
+<p align="center">
+    <b>**Trabajo de grado para la Especialización en Sistemas de Información Geográfica**<br/>
+    <b>**Universidad Distrital Francisco José de Caldas**<br/>
+    <b>**Bogotá - Colombia**<br/>
+    <b>**Noviembre 2017**<br/>
+</p>
