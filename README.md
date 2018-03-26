@@ -11,7 +11,7 @@ La historia tiene un componente geográfico inherente, pensar en “dónde” su
 Lo anterior se desarrolló siguiendo una metodología incremental que se basa en la construcción incrementando las funcionalidades del programa, identificando seis casos de uso y cuatro componentes, hasta la versión desarrollada 1.3.0 que contiene 8 incrementos realizados durante la fase de codificación y verificados en la fase de pruebas de cada uno de estos. Obteniendo una aplicación que cumple satisfactoriamente con los requerimientos planteados en la fase de análisis.
 
 ## Screenshots
-<table style="margin: 0 auto;">
+<table>
     <tr>
         <td>
             <img alt="Instalacion" src="Images/1.%20Instalacion.png">
