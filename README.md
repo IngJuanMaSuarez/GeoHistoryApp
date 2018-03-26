@@ -1,5 +1,5 @@
 # GeoHistoryApp: Realidad Aumentada Basada en Geolocalización para Aprender Historia
-Aplicación Android de realidad aumentada basada en geolocalización para aprender historia usando Wikitude.
+Aplicación Android de realidad aumentada basada en geolocalización para aprender historia usando [Wikitude](https://www.wikitude.com/).
 
 ![GeoHistoryApp](https://github.com/IngJuanMaSuarez/GeoHistoryApp/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
