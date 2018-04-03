@@ -56,7 +56,7 @@ Lo anterior se desarrolló siguiendo una metodología incremental que se basa en
 
 - **[`Documento PDF`](https://www.academia.edu/36259230/GeoHistoryApp_Realidad_Aumentada_Basada_en_Geolocalizaci%C3%B3n_para_Aprender_Historia)**
 - **[`Presentacion PPT`](https://www.academia.edu/36259231/GeoHistoryApp_Realidad_Aumentada_Basada_en_Geolocalizaci%C3%B3n_para_Aprender_Historia)**
-- **[`Video YouTube de la Presentación PPT`](https://www.youtube.com/watch?v=wfjt7XCNWAA&feature=youtu.be)**
+- **[`Video YouTube de la Presentación PPT`](https://www.youtube.com/watch?v=wfjt7XCNWAA&t=)**
 - **[`Archivo APK`](https://github.com/IngJuanMaSuarez/GeoHistoryApp/blob/master/GeoHistoryApp.apk)**
 
 <br>
